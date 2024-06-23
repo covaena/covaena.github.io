@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Michael Chen
+email:
+author: Michael Chen
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,16 +40,14 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Copyright (cleft) 2024-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "" # the favicon for your site
+favicon: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYK0KFHeGtcSgJ6d0dMkYMibiPb119h9hTlM8tatpIt3uGzzoeeFOSuWyT6KMY6tIQG2bGfHPQjPjicsDezx5ge7sEixkFp33k=s1600-rw-v1" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -108,7 +106,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+theme_color: "#b0e0e6"
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -152,19 +150,20 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
+header_pages:
+   - index.html
+   - archives.html
+   - about.md
 #   - categories.html
 #   - tags.html
-#   - about.md
+
 
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+#     heading: "Welcome!"
+#     subheading: "Welcome to my website. I'm not really sure yet which direction I want to take this, but you can probably expect a mix of writing, shitposts, and photos."
+#     banner: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYdWr2zWM5O-sSfNx_nQlqfSK9i6sH5H9bGk1istDSOq6WHD6HEz2mlaUyuI6ADOXMF_KR08Tv6Gzfoo3AyYFtC-iLf_a7yZOg=s1600-rw-v1"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
