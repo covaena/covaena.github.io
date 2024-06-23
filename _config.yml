@@ -106,7 +106,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-theme_color: "#f0ffff"
+theme_color: "#27344A"
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -151,11 +151,11 @@ theme_color: "#f0ffff"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-   - index.html
-   - archives.html
-   - about.md
-   - categories.html
-   - tags.html
+  - index.html
+  - archives.html
+  - categories.html
+  - tags.html
+  - about.md
 
 
 # Page default value
@@ -190,7 +190,7 @@ header_pages:
 #   text_size: 350          # Words default size
 
 # Pagination setting
-# paginate: 5
+paginate: 10
 
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/

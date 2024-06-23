@@ -46,4 +46,4 @@ Here are some links to find me elsewhere on the internet:
 - Tetr.io (i'm washed up): [covaena](https://ch.tetr.io/u/covaena)
 - Twitter: [covaena](https://twitter.com/covaena)
 - Spotify: [michael](https://open.spotify.com/user/qsb6mm3ad8jo99upx673iy98a?si=0e96f14d96064ca8)
-- LinkedIn: [Michael Chen](https://linkedin.com/in/michen2004)
+- LinkedIn: [Michael Chen](https://linkedin.com/in/mchen2004)
