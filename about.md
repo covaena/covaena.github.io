@@ -28,7 +28,7 @@ I’m a Chinese-Australian undergraduate reading Philosophy, Politics, and Econo
 
 <div class="image-container">
   <figure>
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZf5gOX2e0AZ5WKHvA4tR62J-z-CJ8Maht7mcsHwVsK5Z0ssKO9BKBnrPedf2gexCXi8tFyWiNcociXBAzTdfgi1Y8HNY3-59k=s1600-rw-v1" alt="Description of image">
+    <img src="/assets/images/about-image.jpg" alt="Description of image">
     <figcaption>Me on Mt. Banks in the Blue Mountains, New South Wales, Australia</figcaption>
   </figure>
 </div>
