@@ -122,26 +122,34 @@ Micro lectures were all in Michaelmas, I forgor how many we had (2 a week?). Tho
 - My tutor for micro was _amazing_. They knew economics inside out, and was constantly able to not only answer my out-of-syllabus questions, but in a manner that I felt like I understood it.
 - Partly to make myself feel better, but this was surely a harder intro econ course than at other universities. We covered all the usual consumer theory stuff of optimising purchases for utility, as well as monopoly and oligopoly supply and demand dynamics, elementary game theory, and public policy.
 - In retrospect, I would have attended more lectures, as examiners have to write from lecture content. Furthermore, our lecturers were pretty good and might have saved me some time bashing my brains out when reading Varian / Perloff.
-- I think the difficulty with Micro is the huge extent of content that is in the course. Combined with the fact that the examiners have recently decided to jack up the difficulty of micro exams, that meant that the question in Prelims asked pretty obscure terms ('reservation price', who is he?) compared to the bog-standard given Cobb-Douglas utility and budget, work out demands, or calculating equilibria and DWL of monopolies.
+- I think the difficulty with Micro is the huge extent of content that is in the course. Combined with the fact that the examiners have recently decided to up the difficulty of micro exams, that meant that the question in Prelims asked pretty obscure terms ('reservation price', who is he?) compared to the bog-standard given Cobb-Douglas utility and budget, work out demands, or calculating equilibria and DWL of monopolies.
 
 Macro lectures were all in Hilary, and I also forgor how many we had (quite a few, like Micro).
 - Our first tutor for Macro was not very good. They would go very slowly through easy problems on the problem sheets, while also slowly and not really explaining the more difficult ones. They did unfortunately fall ill at the beginning of Trinity, which meant that we got a replacement tutor who was very good, like my Micro tutor, and was able to answer my questions nicely as well as _teach_ the content.
-- Like Micro, I wished I attended more lectures as that would have explained a lot of the trickier parts of problem sheets, as well as the fact that the lecturers pedantically preferred modelling consumption with discount factors rather than a fixed proportion of long run output as in Jones.
+- Like Micro, I wished I attended more lectures as that would have explained a lot of the trickier parts of problem sheets, as well as some of the more pedantic preferences of lecturers[^14]. As economics exams are written on the basis of lecture content, attending is basically a cheat code.
 - Intuitive interpretation of answers featured more heavily in macro than micro. While I thought I would be good at that, I tended to write either too much or too little, or about the wrong explanations (a problem that I suspect would have been helped if I attended more lectures). I never quite figured out what made a _great_ answer in Macro.
-- Macro was all about country's productivity and output (long run), interest rates and inflation (short run), and briefly exchange rates and trade, which is what the layperson (i.e. me before PPE) thought economics was all about. Learning Macro, therefore, has helped me grasp this much better and understand economic dialogue and analysis on the news.
-- That said, I will not be taking Macro for FHS, even though I might do a Masters in Economics. My main reasons for this decision are: 1) Apparently Macro finals involve 3 essays and probably even more interpretation in answers, 2) What I've learned in Prelims seems sufficient to understand most economic reporting; FHS Macro just builds on the AS/AD model that I already know and 3) It seems focussing on Quantitative modules like microanalysis/QE/metrics are what are required; the non-mathy bits of macro can probably be learned later anyway.
+- As for content, we covered countries' productivity and output (long run), interest rates and inflation (short run), and briefly exchange rates and trade, which is what the layperson (i.e. me before PPE) thought economics was all about. Learning Macro, therefore, has helped me grasp this much better and understand economic dialogue and analysis on the news.
+- Macro was not very mathematical; while we played with a few models such as Solow / Romer / AS/AD, the experimentation with these models involved much easier maths than micro.
+- That said, I will not be taking Macro for FHS, even though I might do a Masters in Economics. My main reasons for this decision are: 1) Apparently Macro finals involve 3 essays and even more interpretation in answers, 2) What I've learned in Prelims seems sufficient to grasp the gist of economic reporting; FHS Macro builds on Prelim models like AS/AD rather than introducing new ones, and 3) It seems focussing on Quantitative modules like microanalysis/QE/econometrics are what are required; the non-mathy bits of macro can probably be learned later anyway.
 
 Prob and Stats was quite fun. It was taught through a set of pre-recorded lectures, though there were problem sheets and demonstration lectures for those too. I would highly recommend doing (or at least skimming) the problem sheets, the questions on there were nice and help you get a feel for the questions. We also had a couple of tutorials in college, with our Micro tutor.
-- The first part of Prob and Stats focussed on manipulating expectation, variance, and probability identities[^14]. This was straightforward, the intuition should come after doing a couple of problems.
+- The first part of Prob and Stats focussed on manipulating expectation, variance, and probability identities[^15]. This was straightforward, the intuition should come after doing a couple of problems.
 - Applying the mathematics to samples naturally led to confidence intervals and hypothesis testing. This topic was a bit pedantic in terms of precision in language, which was reasonable. I did not bother learning the recommended 'procedure' for hypothesis testing, did my own thing, worked out a p-value, and got a 32 in my collection. The procedure was not difficult in any way, so that's free marks too.
 - Time series felt the least cohesive of the topics, and was more like a random bundle of fun facts. Telling us the names of different AR(1) processes, correlograms, and going back to algebra mashing expectations, variances, and autocorrelations. A bit challenging to remember all the names since it was the first bit of the course that was properly new for me, but not too bad all things considered.
 - Causal inference was the final topic and also new to me. I found the calculation of Average Treatment Effects to be super cool, and while I never really got around to seriously revising it for Prelims, the power of causal inference made me want to keep studying prob and stats by taking quantitative economics next year.
 
 
 
-## Experience of the past year
+## A year at Oxford
 
-The 'Oxford experience' is hardly just the academics; if anything, it is _everything but_ the academics. While
+The 'Oxford experience' is hardly just the academics. While I certainly wasn't left disappointed by the coursework, what really made my year were the people and clubs; I think both have helped me grow immensely, and left me a very different person to who I was before I came.
+
+While I briefly wrote about the people [above](#people-reality) above, they were more than just the conversations. I witnessed first hand many acts of kindness and friendship, inspiring me to do more of the same. I've ~~become more leftist~~ recognised my previously unconscious leftist opinions only through the many long, late-night, insightful, and impassioned conversations that I would never have had, had I not come to Oxford. And through the collective trauma of diabolical deadlines, inhuman amounts of work, and disorganised administration, I've found a sense of camaraderie with my friends that I hope will remain for many years to come.
+
+I had browsed through the various [clubs at Oxford](https://www.ox.ac.uk/students/life/clubs) before coming to get a sense of what people at Oxford were generally into, as well as attending the various stalls at Freshers' Fair. Most of my time was spent rowing with my college Merton, or attending talks at Philosophy Society, Oxford Speaks, or the Strategic Studies Group (OUSSG). Rowing has been incredible, and warrants a post of its own, which will come soon!. Discipline, perseverance, and camaraderie with my crewmates through 6am water outings and 6pm erg sessions are only some of the qualities I've developed over a year of rowing. I'm looking forward to next year as vice captain of the men's side.
+
+Similarly, roster of speakers I listened to in person (and whose books I got signed) have been genuinely incredible – I just can't imagine a similar experience at any other university back home. After the first few talks/lectures of being starstruck, I now more easily comprehend that they are just people too, albeit particularly distinguished in their fields. A couple of dud talks later too, I recognise that distinction does not always track competence! Many barely delivered their addresses coherently, let alone properly answering audience questions. Others, however, were excellent – I particularly enjoyed one by Daron Acemoglu about the effects of AI on productivity, and Lt. Gen. Richard Nugee about why those in defence must care about climate change. On the whole I found OUSSG talks to be extremely high quality, and were weekly nuggets of insight that changed the way I thought about certain topics / taught me that certain topics existed – it was like reading a great book or watching a great documentary without having to spend the time browsing, or risk getting a bad one.
+
 
 
 ## Predictions?
@@ -160,14 +168,6 @@ I think I am most looking forward to Aesthetics, as that is something that I'm p
 
 
 
-
-
-
-
-
-
-
-
 [^1]: As it turns out, a can of Red Bull every day of the week combined with 5 hours of sleep every night (spent staying up talking, not revising) leads to immune system deficiencies and bronchitis.
 [^2]: Or, in the microeconomic lingo, the probability of them _Pareto Dominating_ you.
 [^3]: It would probably be something along the lines of “macroeconomics is a pseudoscience”.
@@ -181,4 +181,5 @@ I think I am most looking forward to Aesthetics, as that is something that I'm p
 [^11]: Props to polscientists for at least acknowledging 'endogeneity problems', but that doesn't make their results any more valid if they're uncorrectable! It feels as if critiques of bicausality or third variables are low hanging fruit.
 [^12]: I was cooked for my Trinity collections after spending the week before in cold and rainy Exmoor for rowing camp, which meant I didn't get to actually read _On Liberty_. It never really got better from there.
 [^13]: On the Politics marking rubric, 'evidence of original thought' only appears at marks of 85+, and 'evidence of ability to form independent critical assessment' at 78+, both _ridiculously high_ marks for essays. That is all to say, you really need to nail the basics rather than think too hard as the returns are truly marginal.
-[^14]: Always a joy to use Bayes' Theorem and the Law of Iterated Expectation.
+[^14]: For example, they preferred modelling consumption in terms of both fixed proportions of long run output on top of a difference between interest rates and the discount factor, rather than just the former.
+[^15]: Always a joy to use Bayes' Theorem and the Law of Iterated Expectation.
