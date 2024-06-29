@@ -10,11 +10,11 @@ banner:
   opacity: 0.55
 ---
 
-Two days ago, I sat my last prelim exam and finished my first year of Philosophy, Politics, and Economics (PPE) at Oxford. Right now is the most competent I will ever be at all 3 simultaneously, as I will not continue studying Politics in my second and third years. But with the academic year seeming like quite literally _yesterday_, the wounds of exam week and three packed terms are still fresh – this all means that while the technical points I’ve made about the course are likely to be accurate, an emotional reflection of the time will probably mellow out with some time. Maybe I’ll revisit this post in the future.
+Two days ago, I sat my last prelim exam and finished my first year of Philosophy, Politics, and Economics (PPE) at Oxford. Right now is the most competent I will ever be at all 3 simultaneously, as I will not continue studying Politics in my second and third years. But with the academic year seeming like quite literally _yesterday_, the wounds of exam week[^1] and three packed terms are still fresh – this all means that while the technical points I’ve made about the course are likely to be accurate, an emotional reflection of the time will probably mellow out with some time. Maybe I’ll revisit this post in the future.
 
 I’ve had ideas to write something along these lines for a while; but it was only once I saw that [my friend had published his own version](https://rohanselvaradov.netlify.app/ppe/), that I found the serious motivation to set up this website and finally write this. That’s something I’ve really appreciated about PPE: the [inspirational coursemates](#people-reality).
 
-Ultimately, this post is not a PPE essay, so I won’t formulaically weigh up positives and negatives to then shit out a dishonest ‘conclusion’ for the sake of arguing. Instead, I’ll first run through the course structure, recount my expectations when applying, reality check myself with a subject-by-subject review, a general coursework review, and finally reflect on whether I enjoyed my _time_ here, coursework or not.
+Ultimately, this post is not a PPE essay, so I won’t formulaically weigh up positives and negatives to then shit out a dishonest ‘conclusion’ for the sake of arguing. Instead, I’ll first run through the course structure, recount my reasons and expectations when applying, reality check myself with a subject-by-subject review, and finally reflect on the non-coursework Oxford experience. Feel free to skip ahead to [the Reality of PPE](#reality) for the start of my review.
 
 
 ## Course Structure
@@ -62,7 +62,7 @@ Philosophy was a strange triplet of Moral Philosophy (Michaelmas), General Philo
 
 Moral focussed on Mill’s _Utilitarianism_, with a chunk of the course being a textual analysis and the other using it as a point of comparison with other moral systems. I was not particularly interested in Millian exegeses, even though the secondary reading by Roger Crisp was very good. We only had 4 tutorials, all in Michaelmas, and our tutor could not make one of them, but of the ones they did, they were 30 minute one-to-one sessions which were hugely enjoyable and were some of the best I got all year. We also got 30 minute one-to-one tutorials with a moral philosophy PhD student to discuss general writing style and some more content which I found very rewarding as well. We also had hour long classes which got a bit side tracked but our tutor was very knowledgeable so they were fun overall.
 - I had not expected to enjoy moral as much as I did – I would say that as of writing this, I am quite strongly a utilitarian. I have finally understood first-hand the meaning of ‘intellectual influences’ as biographers say – a term spent studying and a year discussing it, with a group of friends that already had a utilitarian lean has left me finding that it simply _makes sense_.
-- That said, I struggled with the reading each week, in part because I did not really have an effective system in place in Michaelmas to attack the Oxford workload, but also because I did not read _Utilitarianism_ over the vac before term started. As I mention below, I also did not read the harder, later parts of _The Logic Manual_ and so was doubly (triply) screwed in the last 4 weeks of term when we had tutorials in Logic, Moral, and Micro.
+- That said, I struggled with the reading each week, in part because I did not really have an effective system in place in Michaelmas to attack the Oxford workload, but also because I did not read _Utilitarianism_ over the vac before term started. As I mention below, I also did not read the harder, later parts of _The Logic Manual_ and so was doubly (triply) screwed in the last 4 weeks of term when we had tutorials in Logic, Moral, and Micro. To the Freshers reading this, _**read Utilitarianism and The Logic Manual before coming**_
 - While our tutor was disorganised at times (famously returning our mock exams one term late) I think their understanding of the material made up for it.
 - All considered, the course was not difficult. The literature mainly presents a couple of classic arguments (e.g. the collapse objection against rule utilitarianism) and stock examples (e.g. choosing between the lives of Hadyn and an oyster to motivate higher and lower pleasures) that you can rely on for good marks in essays, though there remained scope for individual reinterpretation. One area I found the literature helpful was in unpicking the moral philosophical jargon (e.g. permissible vs obligatory), and setting out conceptual distinctions (e.g. multi-level act utilitarianism vs rule utilitarianism). A sense of _understanding_ greatly contributes to my enjoyment of a subject and I definitely got that in moral.
 
@@ -81,6 +81,7 @@ I got off to a rocky start in my [first essay on Free Will](#todo: link FW essay
 Logic was taught by the same tutor as GenPhil, in Michaelmas. I did not really know what to expect, as I was entirely unfamiliar with it.
 - Thankfully I read the first couple of chapters of _The Logic Manual_ in the vac, so was relatively alright for the first few weeks of Michaelmas at least.
 - Logic was, on the whole, very intuitive and fun. Translating between natural English and logical formalisations was straightforward. However, one part of logic that I struggled with was Natural Deduction (ND). In retrospect, that was because I hardly got any time to properly learn it by reading the textbook (ontop of moral and micro work), and so was completely lost as to how to approach ND proofs. Three weeks before Prelims, I decided to finish the entire hundred or so questions in the ['ND Pack'](#todo: link ND pack) which helped me get the hang of it. However, even when I had difficulty _solving_ ND problems, the intuition behind the rules remained understandable (e.g. for E-elim, not having an instantiation of the variable with an undischarged constant, as the 'existence' of a variable can only prove statements that with an arbitrary constant.)
+- I think formal study of logic, especially in conjunction with analytic philosophy in general, has left me more sensitive to logical words ('only if' is a favourite) and the structure of syllogisms (the premisses and conclusion of the argument) when reading or writing.
 - In past years, logic was always seen as a free mark booster in Prelims because it was the only non-essay part of Philosophy, and thus possible to get objectively high marks in. As a result, Logic was capped at 80 (where getting 25/25 marks meant you got an 80; arguably much more doable than getting an 80 in an essay). As the Philosophy prelim paper required you to answer 4 questions with at least 1 in each section, the most common approach was to do 2 logic questions. Unfortunately, this year the logic questions were very difficult, involving question styles hitherto unseen as well as obscure definitions, and so I got a bit cooked. Lesson learned: counter-induction is real[^7], and because logic were free marks in past years does not mean it would be free marks next year.
 
 Overall, Philosophy has not disappointed. I love it more than ever, and am excited to [see what FHS has in store](#predictions) for me!
@@ -89,51 +90,73 @@ Overall, Philosophy has not disappointed. I love it more than ever, and am excit
 
 Politics was split between Practice of Politics (Hilary) and Theory of Politics (Trinity). _Technically_ there was also QStep (Hilary/Trinity Vac).
 
-Pracpol was political science, where students read a shit ton of empirical papers answering social science problems, and write secondary essays on the basis of those. We got 16 Practice of Politics lectures on various topics, of which we did 8 in tutorials. At Merton, our eight were evenly split between comparative government and political sociology.
-- Our tutor was very knowledgeable about the subject and seeing him thread together the conclusions of different papers to explain the topic to us made it very enjoyable.
--
+Pracpol was political science, where students read a shit ton of empirical papers answering social science problems (mainly the famous papers on the topic), and write secondary essays on the basis of those. We got 16 Practice of Politics lectures on various topics, of which we did 8 in tutorials. At Merton, our eight were evenly split between comparative government (empirically comparing governments/states ... woah) and political sociology (the more fun part: explaining observed political behaviour).
+- Our tutor was very knowledgeable about the subject and seeing him thread together the conclusions of our readings to explain the topic to us was satisfying.
+- While some topics were interesting (Social Movements, Party Systems, and Voting Behaviour), most were disappointing or felt dishonest, such as State Formation/Strength[^8] or Consensus and Majoritarian[^9].
+- The primary reading, Principles of Comparative Politics (PCP), by Clark and Golder, was fun to read because it intuitively explained causal links between theories (linking to why I enjoyed voting behaviour and party systems). These explanations were frequently game-theoretic, with (boundedly) rational individual actors and parties.
+- I initially struggled with the volume of readings, with most weeks averaging over 200 pages. Eventually I got more efficient: PCP was readable, and for denser papers, figuring out the conclusion that the author drew was sufficient, with no _real_ need to read through their intuitive argumentation (though I still did that because it felt unsatisfying to just remember facts and not 'why').
+- Come exam time, because the Politics exam was another 4 essays needing at least 1 in each, I opted to do 3 Pracpol, preparing the 3 I found interesting above and cons/maj (because some questions do not come up each year, or one of the topics might have a difficult question: for example, I found this year's cons/maj question quite restrictive so did not do it). The difficulty with Pracpol, more so than Theory, is the stronger focus on papers because this subject is so empirical. So my revision involved reciting lists of papers, their conclusions, and half-heartedly their dates before all the numbers mixed together in my head. The department also has a policy where you cannot reuse evidence or arguments across essays, which made related topics like Party Systems and Voting Behaviour more difficult to prepare for, as I had to remember separate papers for both. Overall, this was not too difficult though, I had only started revision at 7pm the night before while battling the beginning of my illness, and found it surprisingly easy to remember the arguments because the readings and my term-time essays came back to me.
+- Overall Pracpol was not terrible. It showed me that political science was generally fake[^10], but has also equipped me with sufficient vocabulary and grasp of political systems to ~~mansplain~~ prove why Oxford's Politics Department is ranked number 1 in the world, the next time someone ever decides to ask me a super theoretical yet empirical politics question.
 
 
 
 Theory was, as the name suggests, political philosophy. Also 16 lectures, they took a ‘history of political thought’ approach, with influential thinkers like Locke, Rousseau or Marx getting two lectures each. However, they also covered broader topics such as ‘free speech’ or ‘liberty’ near the end. Our Theory tutor was a Mill specialist, so our topics ended up centred on  _On Liberty_: the text itself, free speech, state paternalism, and democracy. While I’m not sure how other universities approach first-year politics, at Oxford, the ‘get the students up to speed’ paradigm rang true for politics as well.
-
-
-
+- None of my essays managed to get above 61[^12], even on the weeks like State Paternalism where I made fairly extensive progress on the readings and thought I wrote a decent essay (to be fair, while I thought the structure of my argument was genius, it _was_ quite confusing). To be fair, Theory was one of the few subjects where we actually got **marked** work; all the other essay subjects only got tutor comments (verbally in the case of moral and GenPhil). This helped me realise that Prelim (or PPE essays in general?) essays really just care about clarity and structure rather than much original thought[^13]; as long as you dial in the 'wanted' structure, you can much more easily access high marks.
+- Compared to the draconian citation laws of Pracpol, I felt that Theory was easier to prepare for, as the focus seemed to be on understanding lines of argument, rather than knowing conclusions of certain papers.
+- Overall Theory was alright. There were a lot of theoretical arguments, which I was initially terrible at, but slowly got the hang of through the term; one approach I found helpful was to split justifications for a certain principle into theoretical and empirical reasons – intrinsic or practical reasons for adoption. Of all the courses, I think Theory helped me tighten up (or at least diagnose problems in) my essay writing skills the most.
 
 While there technically was scope to bring in contemporary commentary in ~~both~~ all three Politics subjects, in neither of them was it the main aim. I do think that I enjoyed this approach much more than my imagined political commentary nightmare. and despite primarily learning that Politics is a fake subject, have also developed a good feel of how this discipline works.
+
+QStep was a silly quantitative methods course for politics students. We had 8 lectures as well as fortnightly 'labs' in Hilary that went over very basic statistics and 'programming' in R; I went to one of each. However, those without prior programming or statistics experience might have sat through it and found it enjoyable/useful.
+- The 'assessment' is not assessed; it doesn't factor into your grade. It is a take home 2000 word project to be done over the Hilary/Trinity vac; they give you a list of questions and relevant datasets. I did the consensus majoritarian one, and bashed out the programming and report writing (basically rejigging my tutorial essay) starting in 4 hours the day it was 'due'.
+- I put 'due' in quotation marks because half my cohort did not submit it, probably will not ever submit it, and will be fine. I decided at the last minute to do it because staying up high-school-style was a little nostalgic and also because it really wouldn't cost me much to do it, for ease of mind.
+- To Freshers reading this, QStep might be more important if you are considering taking second year quantitative politics modules (Comparative Government and IR, I think?). However, you will also have to take QStep-2 for that anyway (which I've been told is almost as unserious as prelim QStep) so maybe QStep still doesn't matter.
+
 
 
 ### Economics
 
-The most STEM-like of the three, the course structure of economics was also the most straightforward, delivered as a standard course of micro and macro with ‘probability and stats’ (a sound preparation for those going on to take quantitative papers) as dessert. All three parts, though especially micro, were more maths-heavy than expected, and the fusion of mathematical machinery with intuitive interpretation was reminiscent of Physics.
+The most STEM-like of the three, the course structure of economics was also the most straightforward, delivered as a standard course of Microeconomics and Macroeconomics, with ‘Probability and Stats’ (a preparation for those going on to take quantitative papers) as dessert. All three parts, though especially Micro, were more maths-heavy than expected, and the fusion of mathematical machinery with intuitive interpretation was reminiscent of Physics which I found greatly enjoyable.
 
-- Microeconomics
-- Probability and Statistics
-- Macroeconomics
+Micro lectures were all in Michaelmas, I forgor how many we had (2 a week?). Though I had never studied economics (with the exception of a single term in Year 11 spent playing Tetris in class) before, it was all comprehensible. Micro was the most maths-intensive econ course, jumping straight into formulae, and even then did not progress much beyond first derivatives in optimisation problems.
+- My tutor for micro was _amazing_. They knew economics inside out, and was constantly able to not only answer my out-of-syllabus questions, but in a manner that I felt like I understood it.
+- Partly to make myself feel better, but this was surely a harder intro econ course than at other universities. We covered all the usual consumer theory stuff of optimising purchases for utility, as well as monopoly and oligopoly supply and demand dynamics, elementary game theory, and public policy.
+- In retrospect, I would have attended more lectures, as examiners have to write from lecture content. Furthermore, our lecturers were pretty good and might have saved me some time bashing my brains out when reading Varian / Perloff.
+- I think the difficulty with Micro is the huge extent of content that is in the course. Combined with the fact that the examiners have recently decided to jack up the difficulty of micro exams, that meant that the question in Prelims asked pretty obscure terms ('reservation price', who is he?) compared to the bog-standard given Cobb-Douglas utility and budget, work out demands, or calculating equilibria and DWL of monopolies.
+
+Macro lectures were all in Hilary, and I also forgor how many we had (quite a few, like Micro).
+- Our first tutor for Macro was not very good. They would go very slowly through easy problems on the problem sheets, while also slowly and not really explaining the more difficult ones. They did unfortunately fall ill at the beginning of Trinity, which meant that we got a replacement tutor who was very good, like my Micro tutor, and was able to answer my questions nicely as well as _teach_ the content.
+- Like Micro, I wished I attended more lectures as that would have explained a lot of the trickier parts of problem sheets, as well as the fact that the lecturers pedantically preferred modelling consumption with discount factors rather than a fixed proportion of long run output as in Jones.
+- Intuitive interpretation of answers featured more heavily in macro than micro. While I thought I would be good at that, I tended to write either too much or too little, or about the wrong explanations (a problem that I suspect would have been helped if I attended more lectures). I never quite figured out what made a _great_ answer in Macro.
+- Macro was all about country's productivity and output (long run), interest rates and inflation (short run), and briefly exchange rates and trade, which is what the layperson (i.e. me before PPE) thought economics was all about. Learning Macro, therefore, has helped me grasp this much better and understand economic dialogue and analysis on the news.
+- That said, I will not be taking Macro for FHS, even though I might do a Masters in Economics. My main reasons for this decision are: 1) Apparently Macro finals involve 3 essays and probably even more interpretation in answers, 2) What I've learned in Prelims seems sufficient to understand most economic reporting; FHS Macro just builds on the AS/AD model that I already know and 3) It seems focussing on Quantitative modules like microanalysis/QE/metrics are what are required; the non-mathy bits of macro can probably be learned later anyway.
+
+Prob and Stats was quite fun. It was taught through a set of pre-recorded lectures, though there were problem sheets and demonstration lectures for those too. I would highly recommend doing (or at least skimming) the problem sheets, the questions on there were nice and help you get a feel for the questions. We also had a couple of tutorials in college, with our Micro tutor.
+- The first part of Prob and Stats focussed on manipulating expectation, variance, and probability identities[^14]. This was straightforward, the intuition should come after doing a couple of problems.
+- Applying the mathematics to samples naturally led to confidence intervals and hypothesis testing. This topic was a bit pedantic in terms of precision in language, which was reasonable. I did not bother learning the recommended 'procedure' for hypothesis testing, did my own thing, worked out a p-value, and got a 32 in my collection. The procedure was not difficult in any way, so that's free marks too.
+- Time series felt the least cohesive of the topics, and was more like a random bundle of fun facts. Telling us the names of different AR(1) processes, correlograms, and going back to algebra mashing expectations, variances, and autocorrelations. A bit challenging to remember all the names since it was the first bit of the course that was properly new for me, but not too bad all things considered.
+- Causal inference was the final topic and also new to me. I found the calculation of Average Treatment Effects to be super cool, and while I never really got around to seriously revising it for Prelims, the power of causal inference made me want to keep studying prob and stats by taking quantitative economics next year.
+
 
 
 ## Experience of the past year
 
-Rowing, extracurriculars
+The 'Oxford experience' is hardly just the academics; if anything, it is _everything but_ the academics. While
 
 
 ## Predictions?
 
-Now that I have this blog going, I can properly note down my expectations of FHS so when I finish that, I can come back to compare. While I have not settled on my paper choices, it probably will not be too different from the following split of Philosophy and Economics, 
+Now that I have this blog going, I can properly note down my expectations of FHS so when I finish that, I can come back to compare. While I have not settled on my paper choices, it probably will not change much from the following split of Philosophy and Economics:
 - Ethics
 - Knowledge & Reality
 - Philosophy of Wittgenstein
 - Aesthetics
-- Philosophy of Mind or Econometrics (probably the latter)
+- Philosophy of Mind / Practical Ethics / Econometrics (probably the latter)
 - Microeconomics
 - Quantitative Economics
 - Game Theory
 
-
-
-## I HAVE NOT FUKIN FINISHED WRITING YET BUT LUKE SENT OUT THE LINK SO COME BACK IN 2 DAYS TO READ TEH FINISHED PRODCUT
-
-(or two weeks to see some more content..)
+I think I am most looking forward to Aesthetics, as that is something that I'm personally really interested in. But I'm wary of what happened to my GenPhil enthusiasm, so will approach it tentatively. I'm also looking forward to Ethics, as it is just genuinely interesting as well, and I think it is the paper that would have the biggest impact on my life. Finally, I'm semi-anxiously looking forward to Game Theory; while it is notoriously difficult, I've missed the mathematical problem solving from Olympiads so it's going to be exciting!
 
 
 
@@ -145,12 +168,17 @@ Now that I have this blog going, I can properly note down my expectations of FHS
 
 
 
-
-
-[^1]: Or, in the microeconomic lingo, the probability of them _Pareto Dominating_ you.
-[^2]: It would probably be something along the lines of “macroeconomics is a pseudoscience”.
-[^3]: Though if the tutor actually read the essay before the tutorial, they would have recognised that my argument was a reimagined version of Frankfurt's higher order volitions. Oops!
-[^4]: Definitely ironic given that many of my essays tend to nitpick question vocabulary, but very welcome lesson to be learnt indeed.
-[^5]: This lead to a _Nickname_ among our cohort of 'our favourite trade unionist'.
-[^6]: This is only going off of past examiners' reports. There is a non-negligible chance that the markers decide to absolutely cook me in prelims.
-[^7]: Shhh don't think too hard about how I inductively concluded that.
+[^1]: As it turns out, a can of Red Bull every day of the week combined with 5 hours of sleep every night (spent staying up talking, not revising) leads to immune system deficiencies and bronchitis.
+[^2]: Or, in the microeconomic lingo, the probability of them _Pareto Dominating_ you.
+[^3]: It would probably be something along the lines of “macroeconomics is a pseudoscience”.
+[^4]: Though if the tutor actually read the essay before the tutorial, they would have recognised that my argument was a reimagined version of Frankfurt's higher order volitions. Oops!
+[^5]: Definitely ironic given that many of my essays tend to nitpick question vocabulary, but very welcome lesson to be learnt indeed.
+[^6]: This lead to a _Nickname_ among our cohort of 'our favourite trade unionist'.
+[^7]: This is only going off of past examiners' reports. There is a non-negligible chance that the markers decide to absolutely cook me in prelims.
+[^8]: Shhh don't think too hard about how I inductively concluded that.
+[^9]: State formation was fucking atrocious. Theories included 'roving bandits' (a novel and frankly deranged) concept where state revenue is more effectively raised collected as a constant tax under a centralised administration, rather than going around to citizens and collecting payment by threatening violence. 'War builds states' was another bogus theory in the readings, which argued that the stresses of raising funding for soldiers forced a country to develop a stronger tax (and necessarily, administrative) system, advantages that remain. These theories were hardly founded in anthropology, nor were they advanced as a useful way to think about things (for example, social contract theories, at least maintain a normative component apart from the descriptive).
+[^10]: Cons/Maj was a popular topic because of its straightforwardness, but the content itself was bullshit. Out of 36, mostly advanced democracies, Lijphart pulls the two axes of 'executive-parties' and 'federal-unitary' out of his ass to determine how 'consensual' or 'majoritarian' a country is. Firstly, only the first axis is statistically significant in most cases. Secondly, he frequently commits egregious (though entertaining!) acts of data manipulation, such as when he 'proves' that consensus democracies are 'kinder and gentler', of which a metric is incarceration rates, by deleting the data point of the USA, a very federal (i.e. consensual along the federal/unitary dimension) country, because "incarceration rates in the USA are off the charts". I get that it might be an outlier, but the numbers don't lie and it was not erroneous data collection – surely that means it should be included otherwise the results are simply non-representative? If you disagree, or have a counterargument for why such an outlier _should_ be removed, please get [in touch](/about.html/#contact-me)! I'd love to hear why.
+[^11]: Props to polscientists for at least acknowledging 'endogeneity problems', but that doesn't make their results any more valid if they're uncorrectable! It feels as if critiques of bicausality or third variables are low hanging fruit.
+[^12]: I was cooked for my Trinity collections after spending the week before in cold and rainy Exmoor for rowing camp, which meant I didn't get to actually read _On Liberty_. It never really got better from there.
+[^13]: On the Politics marking rubric, 'evidence of original thought' only appears at marks of 85+, and 'evidence of ability to form independent critical assessment' at 78+, both _ridiculously high_ marks for essays. That is all to say, you really need to nail the basics rather than think too hard as the returns are truly marginal.
+[^14]: Always a joy to use Bayes' Theorem and the Law of Iterated Expectation.

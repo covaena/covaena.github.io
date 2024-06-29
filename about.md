@@ -41,11 +41,14 @@ Despite my apparent addiction to technology, I hold a special place in my heart 
 
 Oh it also probably goes without saying I used to play a fair amount of video games; _formerly_ I was a high-level Tetris player (Top 1000 globally), as well as not being too shabby in StarCraft (Diamond 3). While I've more or less recovered from the addiction because of the Oxford workload and leaving my PC at home, I suspect that might change over the Summer...
 
-Here are some links to find me elsewhere on the internet:
+## Contact Me
+
+Here are some other places you can find/contact me:
 - Steam: [covaena](https://steamcommunity.com/id/covaena/)
 - Tetr.io (i'm washed up): [covaena](https://ch.tetr.io/u/covaena)
 - Twitter: [covaena](https://twitter.com/covaena)
 - Spotify: [michael](https://open.spotify.com/user/qsb6mm3ad8jo99upx673iy98a?si=0e96f14d96064ca8)
 - LinkedIn: [Michael Chen](https://linkedin.com/in/mchen2004)
+- Email: [michaelchen2004@gmail.com](mailto:michaelchen2004@gmail.com)
 
-All pictures on this website, unless otherwise stated, are my own. Even on posts that aren't explicitly about photography or art, the images were chosen with some significance!
+All pictures on this website, unless otherwise stated, are my own. Even on posts that aren't explicitly about photography or art, the images were chosen with some relevance and/or significance!
